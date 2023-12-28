@@ -18,6 +18,6 @@ To play the game, open the `index.html` file in your browser. The game board and
 If you have any questions or feedback, feel free to contact me:
 
 - Name: Betul Nalan Unal
-- Email: betul.n.unal@example.com
+- Email: BetulNalanUnal3@gmail.com.com
 
 Enjoy the game!
